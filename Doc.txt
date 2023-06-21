@@ -1,0 +1,8 @@
+This project is to research alphas including types of momentum, reversal, volatility, liquidity, cashflow and some technical signals
+
+Data: 2018.1.1 - 2020.12.31, China A share market (3000 stocks per day)
+
+raw data is 1min frequency with high, low, open, close, volume, turnover data in csv format, saved in day--> ticker level
+
+reference data include: index universe, index price , market cap and shares outstanding, adjusted factor, industry info, reference data is in daily level
+
